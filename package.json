@@ -1,0 +1,19 @@
+{
+  "name": "pagedown-sanitizer",
+  "description": "PageDown sanitizer",
+  "homepage": "https://github.com/bevacqua/pagedown-sanitizer",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "nicolasbevacqua@gmail.com",
+    "url": "http://ponyfoo.com"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/pagedown-sanitizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bevacqua/pagedown-sanitizer/issues"
+  },
+  "main": "sanitizer.js"
+}
