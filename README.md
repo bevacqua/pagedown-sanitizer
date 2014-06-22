@@ -12,7 +12,7 @@
     var sanitizer = require('pagedown-sanitizer');
 
     marked.setOptions({
-        // your options go here
+        sanitizer: sanitizer
     });
 
     marked('This is **awesome**!');
